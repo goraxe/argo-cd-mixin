@@ -1,4 +1,4 @@
-local g = import 'github.com/grafana/grafonnet/gen/grafonnet-latest/main.libsonnet';
+local g = import 'github.com/grafana/grafonnet/gen/grafonnet-v10.4.0/main.libsonnet';
 local dashboard = g.dashboard;
 local row = g.panel.row;
 local grid = g.util.grid;
